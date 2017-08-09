@@ -1,5 +1,7 @@
 Judge's note: this does not seem to be a full guide
-# Darwin Instructions
+
+Jollibee's note: Yeah no shit Judge, let's fix that
+
 ## Installation
 All that is really needed for installation is double clicking on the .dmg for Panda3D, and then using the provided .sh file to install all of the Panda3D dependencies.
 
@@ -13,4 +15,3 @@ Simply move the astron file into the astron directory within your source directo
     ./start-astron-cluster.sh
     ./start-uberdog-server.sh
     ./start-ai-server.sh
-    
